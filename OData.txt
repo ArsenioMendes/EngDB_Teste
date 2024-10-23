@@ -1,0 +1,5 @@
+1 - Para criar um serviço Odata, deve fazer a criação de um projeto na transação SEGW, e lá modelar as entidades e implementação métodos para expor o CRUD das suas entidades via Serviço desse projeto.
+
+2 - Um Entity Data Model (EDM) : é um modelo customizável, baseado no MPC (Modelo da entidade selecionada) nesta camada é possível implementar os métodos CRUD do serviço.
+
+3 - As ferramentas sap são: /IWFND/GW_CLIENT, Onde é possível fazer requisições GET, POST, DELETE, PUT... e um exemplo de ferramenta NÃO SAP é o POSTMAN.
