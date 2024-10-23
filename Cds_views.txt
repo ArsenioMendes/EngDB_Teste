@@ -1,0 +1,5 @@
+1 - Para estender uma entidade CDS é necessário criar uma Extend View.
+
+2 - para realizar o consumo de uma calculation view através de uma CDSVIEW é necessário fazer uma seleção no Schema da calculation view que se deseja.
+
+3 - o BOPF é um modelo de Objeto de Negócio Padronizado, ele define uma estrutura para representar objetos de negócios, incluindo suas entidades, atributos e relacionamentos.
