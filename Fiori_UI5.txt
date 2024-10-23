@@ -1,0 +1,7 @@
+1 - Participei em um projeto de manutenção e melhoria de um APP chamado Mapa comparativo que faz consumo de tabelas de MM e FI.
+
+2 - o Versionamento de códigos FIORI são: via repositórios GIT, o versionamento é feito em um repositório GIT EX: GitHub, Gitbucket... e em sua versão final é feito um deploy do ambiente SAP.
+
+3 - A diferença entre XMLVIEW e JS VIEW, é a construção, onde na XMLVIEW os componentes são construídos por meio de declaração XML... e JSVIEW (JAVASCRIPT) são construídos e especificados seus atributos via Javascript.
+
+4 - Os Templates do Fiori Elements pre-definidos são: Basic, Custom page, List Report Page, Overview Page, Analytical List Page, From Entry Object Page.
