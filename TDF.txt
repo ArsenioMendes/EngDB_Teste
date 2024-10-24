@@ -1,0 +1,5 @@
+1 - O SAP TDF (Tax Declaration Framework) é uma solução da SAP criada para atender às obrigações fiscais brasileiras. É uma solução para ajudar empresas a gerenciar e automatizar o processo de apuração, validação e entrega de obrigações tributárias no Brasil, que possui um sistema tributário complexo. Em resumo, o SAP TDF é uma ferramenta essencial para empresas que operam no Brasil e precisam gerenciar o complexo ambiente de regulamentações fiscais do país, automatizando processos e assegurando conformidade com as exigências governamentais.
+
+2 - Não possuo experiência com implementação de TDF, todavia, já atuei diversas vezes com módulos de SD e FI, que de certa maneira se assemelham ao objetivo da solução TDF.
+
+3 - pesquisar na documentação da obrigação as ampliações existentes e os pontos abertos pela SAP pra customização.
