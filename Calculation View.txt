@@ -1,0 +1,5 @@
+1 - Os cuidados para realizar o join entre duas Calculations Views: Garantir o relacionamento máximo entre as chaves (se possível) das duas visões
+
+2 - Devo deixa habilitado apenas as colunas necessárias para não onerar o retorno da busca dos dados... trazendo somente a volumetria necessária.
+
+3 - Para avaliar um problema de performance em uma calculation View, deve-se executar a ferramenta de performance e validação ou verificar dentro do plano de visualização o consumo de CPU e memória usada no console do Eclipse.
